@@ -12,9 +12,9 @@ Este repositório contém um clone da pagina Netflix utilizando Jquery e abordam
 
 **### 🛠️ Tecnologias utilizadas**
 
-\* <a *href*="https://www.w3schools.com/css/css_rwd_mediaqueries.asp" *rel*="nofollow">Responsive Web Design - Media Queries</a>
+[Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-\* <a *href*="https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html" *rel*="nofollow">Owl.Carousel.js</a>
+[Owl.Carousel.js](https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html)
 
 Fique à vontade para fazer fork e depois me mostre a sua nova versão.<br />
 
