@@ -1,6 +1,6 @@
 ## Netflix clone utilizando Jquery.js e Responsive Web Design Media Queries
 
-![Netflix clone](https://github.com/HeberSilverio/Netflix-clone/blob/main/imagens/NetflixClone.gif)
+![Netflix clone](https://raw.githubusercontent.com/HeberSilverio/Netflix-clone/main/CloneNetflix.PNG)
 
 ### 🎫 Descrição do projeto
 
