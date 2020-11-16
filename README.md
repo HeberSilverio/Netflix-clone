@@ -1,10 +1,6 @@
 ## Netflix clone utilizando Jquery.js e Responsive Web Design Media Queries
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Netflix-clone/blob/main/imagens/NetflixClone.gif">
-
-    <img src="" alt="Netflix" style="max-width: 100%;">
-
-</a> </br>
+![Netflix clone](https://github.com/HeberSilverio/Netflix-clone/blob/main/imagens/NetflixClone.gif)
 
 ### 🎫 Descrição do projeto
 
@@ -12,9 +8,9 @@ Este repositório contém um clone da pagina Netflix utilizando Jquery e abordam
 
 **### 🛠️ Tecnologias utilizadas**
 
-\* <a *href*="https://www.w3schools.com/css/css_rwd_mediaqueries.asp" *rel*="nofollow">Responsive Web Design - Media Queries</a>
+[Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
-\* <a *href*="https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html" *rel*="nofollow">Owl.Carousel.js</a>
+[Owl.Carousel.js](https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html)
 
 Fique à vontade para fazer fork e depois me mostre a sua nova versão.<br />
 
